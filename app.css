@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Cabin|Josefin+Sans|Karla|Lobster|Saira+Condensed');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.divMain {
+background: #5f2c82;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #49a09d, #5f2c82); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+}
+
+.haw {
+    height: 500px;
+    width: 105%;
+}
+
+.fontC {
+    font-family: 'Great Vibes', cursive;
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 150px;
+    text-shadow: 1px 1px #00afec;
+}
+
+h3 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 35px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 0px;
+    text-shadow: 1px 1px #00afec;
+}
+

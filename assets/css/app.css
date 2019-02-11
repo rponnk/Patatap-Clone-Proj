@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Cabin|Josefin+Sans|Karla|Lobster|Saira+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body, html {
+    height: 100%;
+    margin: 0; 
+
+}
+
+.divMain {
+background: #5f2c82;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #49a09d, #5f2c82); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+}
+
+.haw {
+    height: 500px;
+    width: 105%;
+}
+
+.fontC {
+    font-family: 'Great Vibes', cursive;
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 150px;
+    text-shadow: 1px 1px #00afec;
+}
+
+h3 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 35px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 0px;
+    text-shadow: 1px 1px #00afec;
+}
+
+canvas {
+    height: 100%;
+    width: 100%;
+    background: #283048;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.main-title {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Righteous', cursive;
+    color: white;
+    font-size: 85px;
+    background: #283048;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+}

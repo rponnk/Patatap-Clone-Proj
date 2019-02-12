@@ -2,7 +2,7 @@ var keyData = {
 	a: {
 		color: "red",
 		sound: new Howl({
-		src: ["sounds/bubbles.mp3"]
+		src: [".sounds/bubbles.mp3"]
 	})
 
 },
